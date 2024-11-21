@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi there 👋, My name is Jose David
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06CC39&width=435&lines=Welcome+to+my+GitHub+profile!+%F0%9F%8E%89;I'm+a+Full+Stack+Developer+)](https://git.io/typing-svg)
 
-<img src="https://i.imgur.com/xuzn02J.jpg">
+<!--<img src="https://i.imgur.com/xuzn02J.jpg">-->
+<img src="https://i.imgur.com/xV3QQ9w.jpg">
 
 ## 🚀 About Me  
 - 🎓 Currently completing a **Software Development Technology Program** at SENA.  
