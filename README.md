@@ -15,14 +15,17 @@
 Here are some projects that showcase my growth as a developer:
 
 - 🏪 [**Pharmaceutical E-commerce**](https://josedavid038.github.io/Ecommerce_Droguerias_DAO/): A prototype of an online store designed with HTML, CSS, and JavaScript, optimized for mobile devices.
+  
 
   <img src="https://i.imgur.com/mA3t09o.png">
 
 - 🕹️ [**Rock, Paper, Scissors, Lizard And Spock Game**](https://josedavid038.github.io/The-Big-Bang-Theory-Game/): A fun interactive version of a game inspired by the series The Big Bang Theory, built with JavaScript and LocalStorage.
 
+
   <img src="https://i.imgur.com/929Qk9Z.png">
 
 - 🌟 [**ToDo List**](https://josedavid038.github.io/toDo-List/): A useful interactive app for management tasks built with JavaScript and LocalStorage.
+
 
   <img src="https://i.imgur.com/ZRPeXN3.png">
 
